@@ -10,7 +10,7 @@
 * **Project Topic:** Student Loan Debt
 * **Project Description:** In a world where student debt is a major topic for presidential candidates, we wanted to understand what trends 			were/are the most prevalent over the past decade. We'll try to answer: 
 	* How do wages compare to student debt over a 10-year period? Is the gap widening? If so, will it continue?
-	* What is the Per Capita student debt per state? Is there a trend associated with the cost of living in that state? 
+	* What is the Per Capita student debt per state?
 	* (Insert Question)
 
 * **Breakdown of Tasks:**
